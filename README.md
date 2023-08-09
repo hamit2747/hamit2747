@@ -6,12 +6,18 @@
 - 🦾I’m looking to collaborate on software companies
 
  
- I am Front-End Devoloper. I am a person who is always open to learning and loves to research.I trust the spirit of teamwork and I believe that it will take us to the best places.My goal is to improve my web development skills.
+ Hello!🖐️  My name is A.Hamit and I am a passionate Front-End Developer. Combined with my interest in web technologies and my desire to produce creative solutions, I focus on creating user-friendly and impressive web experiences. 💻
 
-I am open to developing Front-End and React. I have good stress management and I have good interpersonal communication. I like to research and keep up to date. I'm currently focusing on JS technologies, especially React.js.
+My deep interest in design and usability principles enables me to create aesthetically pleasing and functional websites that focus on users' needs. Using core technologies such as HTML🌐, CSS🎨 and JavaScript⚙️, I create solutions that enable users to understand targeted messages that they enjoy interacting with.
 
+My experiences reflect the knowledge I have gained by working on various projects and constantly improving myself. As someone dedicated to learning and new technologies, I always follow the current trends and developments in the industry. In this way, I keep my projects up-to-date using the latest technologies and aim to attract the attention of users.
 
+My belief in teamwork highlights how important it is to achieve common goals through effective communication and collaboration between design teams and developers. In addition to being a good communicator, my problem-solving abilities and analytical thinking allow me to effectively overcome the challenges I face. 👥
 
+If you want to work with me in the changing digital world and realize web projects where users will have unforgettable experiences, please do not hesitate to contact me. I look forward to expanding my network and connecting with like-minded professionals.
+
+Thanks!🙌
+E-mail: a.hamit2747@gmail.com
 
 <h1>Skills:</h1>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" />
