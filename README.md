@@ -12,8 +12,6 @@ My deep interest in design and usability principles allows me to create aestheti
 
 My experiences reflect the accumulation I've gained from working on various projects and continually improving myself. As someone dedicated to learning and embracing new technologies, I always keep track of the latest industry trends and developments. This approach ensures that I maintain up-to-date projects by incorporating the latest technologies and capturing users' attention. 📚
 
-My belief in teamwork emphasizes the significance of effective communication and collaboration between design teams and developers to achieve common goals. Alongside being a strong communicator, my problem-solving skills and analytical mindset enable me to overcome challenges efficiently. 👥
-
 If you're looking to bring to life web projects that offer users unforgettable experiences in the ever-evolving digital world, please don't hesitate to get in touch with me. I'm eager to expand my network and connect with like-minded professionals who share a similar vision. 🌐
 
 Thank you! 🙌
