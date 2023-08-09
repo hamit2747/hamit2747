@@ -13,7 +13,7 @@ I am open to developing Front-End and React. I have good stress management and I
 
 
 
-
+<h1>Skills:</h1>
 <div style="text-align: center;">
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
