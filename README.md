@@ -6,7 +6,7 @@
 - 🦾I’m looking to collaborate on software companies
 
  
-Hello! My name is A.hamit👋 , and I am a passionate Front-End Developer. Combining my interest in web technologies with a desire to create innovative solutions, I focus on crafting user-friendly and captivating web experiences. 💻
+Hello! My name is Abdulhamit👋 , and I am a passionate Front-End Developer. Combining my interest in web technologies with a desire to create innovative solutions, I focus on crafting user-friendly and captivating web experiences. 💻
 
 My deep interest in design and usability principles allows me to create aesthetically pleasing and functional websites that cater to users' needs. By proficiently utilizing core technologies such as HTML 🌐, CSS 🎨, and JavaScript ⚙️, I develop solutions that enable users to engage effectively and comprehend targeted messages.
 
