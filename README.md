@@ -25,7 +25,8 @@ I am open to developing Front-End and React. I have good stress management and I
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg" />
 <div>
 
- <br>  <br>  <br>  <br>  
+ <br>  <br>  <br>  <br> 
+ <h1>Contact Me:</h1>
  <a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/">
  <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
   </a>
