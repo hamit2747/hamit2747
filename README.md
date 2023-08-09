@@ -20,23 +20,22 @@ Thanks!🙌
 E-mail: a.hamit2747@gmail.com
 
 <h1>Skills:</h1>
-<div style="text-align: center;">
-  <img alt="Visual Studio Code" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" />
-  <img alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
-  <img alt="JavaScript" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
-  <!-- Diğer img etiketleri burada devam eder -->
-</div>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg" />
 
-<br> <br> <br> <br>
 
-<h1>Contact Me:</h1>
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/">
-    <img alt="LinkedIn" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+ <br>  <br>  <br>  <br> 
+ <h1>Contact Me:</h1>
+ <a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/">
+ <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
   </a>
-  <a href="https://instagram.com/a.hamit_bozkurt?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-    <img alt="Instagram" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
-  </a>
-</div>
-
+<a href="https://instagram.com/a.hamit_bozkurt?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
+</a>
 
