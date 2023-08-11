@@ -18,7 +18,7 @@ Thank you! 🙌
 E-mail: a.hamit2747@gmail.com
 
 <h1>Skills:</h1>
-<img align="left" alt="Visual Studio Code" width="40px" src="" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
