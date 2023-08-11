@@ -18,7 +18,7 @@ Thank you! 🙌
 E-mail: a.hamit2747@gmail.com
 <script></scirt>
 <h1>Skills:</h1>
-<a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/">
+<a href="#">
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" /> </a>
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
