@@ -17,8 +17,8 @@ If you're looking to bring to life web projects that offer users unforgettable e
 Thank you! 🙌
 E-mail: a.hamit2747@gmail.com
 <h1>Skills:</h1>
-<a style="background-color: blue;" href="#">
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" /> </a>
+<a href="#">
+<img style="background-color: white;" align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" /> </a>
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
