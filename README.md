@@ -50,9 +50,9 @@
 <!-- Languages and tools icons -->
 
   <h2 align="center">Languages and Tools</h2>
-<p align="center">
+<div style="text-align:center">
   <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" alt="Languages and Tools" />
-</p>
+</div>
 <!-- Final words -->
 <p align="center">
   <em align="center">Welcome to a world filled with creativity and technology!</em>
