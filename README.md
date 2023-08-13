@@ -51,9 +51,9 @@
 <div align="center">
   <h2 align="center">Languages and Tools</h2>
   </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" alt="Languages and Tools" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" width="200" alt="Languages and Tools" />
+</p>
 <!-- Final words -->
 <div align="center">
   <em>Welcome to a world filled with creativity and technology!</em>
