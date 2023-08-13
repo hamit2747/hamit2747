@@ -25,6 +25,10 @@
 <h2 align="center">GitHub Statistics</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamit2747&show_icons=true&theme=dark" alt="GitHub Statistics" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamit2747&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <strong>Total Projects:</strong> <span style="color: #FF5733;">3</span>
 </p>
 
 <!-- Featured Projects -->
