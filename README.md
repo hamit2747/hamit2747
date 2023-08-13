@@ -6,13 +6,49 @@
 - 🦾I’m looking to collaborate on software companies
 
  
-Hello! My name is Abdulhamit👋 , and I am a passionate Front-End Developer. Combining my interest in web technologies with a desire to create innovative solutions, I focus on crafting user-friendly and captivating web experiences. 💻
+<!-- Title -->
+<h1 align="center">Hello, I'm Abdulhamit! 👋</h1>
 
-My deep interest in design and usability principles allows me to create aesthetically pleasing and functional websites that cater to users' needs. By proficiently utilizing core technologies such as HTML 🌐, CSS 🎨, and JavaScript ⚙️, I develop solutions that enable users to engage effectively and comprehend targeted messages.
+<!-- Tagline or description -->
+<p align="center">Front-End Developer | Web Designer | Tech Enthusiast</p>
 
-My experiences reflect the accumulation I've gained from working on various projects and continually improving myself. As someone dedicated to learning and embracing new technologies, I always keep track of the latest industry trends and developments. This approach ensures that I maintain up-to-date projects by incorporating the latest technologies and capturing users' attention. 📚
+<!-- Dynamic text effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%20Abdulhamit;I%20build%20web%20experiences;With%20passion%20and%20creativity;Let's%20create%20together" alt="Typing SVG" />
+  </a>
+</p>
 
-If you're looking to bring to life web projects that offer users unforgettable experiences in the ever-evolving digital world, please don't hesitate to get in touch with me. I'm eager to expand my network and connect with like-minded professionals who share a similar vision. 🌐
+<!-- Social media links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdulhamit@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Thank you! 🙌
-E-mail: a.hamit2747@gmail.com
+<!-- Technologies -->
+<h2 align="center">Technologies I Use</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js">
+</p>
+
+<!-- GitHub stats -->
+<h2 align="center">GitHub Statistics</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhamit&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+</p>
+
+<!-- Language and tool icons -->
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" alt="Languages and Tools" />
+</p>
+
+<!-- Final words -->
+<p align="center">
+  <em>Welcome to a world filled with creativity and technology!</em>
+</p>
+
