@@ -55,6 +55,6 @@
   <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" alt="Languages and Tools" />
 </div>
 <!-- Final words -->
-<p align="center">
-  <em align="center">Welcome to a world filled with creativity and technology!</em>
-</p>
+<div align="center">
+  <em>Welcome to a world filled with creativity and technology!</em>
+</div>
