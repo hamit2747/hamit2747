@@ -13,7 +13,7 @@
 
 <!-- Social media links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/" style=target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:a.hamit2747@gmail.com" target="_blank">
