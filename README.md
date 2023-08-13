@@ -4,6 +4,7 @@
 
 <!-- Tagline or description -->
 <p align="center">Front-End Developer | Web Designer | Tech Enthusiast</p>
+![d86e4bdd-74cf-495c-80d9-e1d8e7ae319a](https://github.com/hamit2747/hamit2747/assets/133259307/a3bbc352-1637-48c2-8001-7abf31f44352)
 
 
 <!-- Dynamic text effect -->
