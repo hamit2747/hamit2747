@@ -31,7 +31,7 @@
 </p>
 
 <!-- Featured Projects -->
-<h2 align="center">Featured Projects</h2>
+<h2 align="center" style="color: #4CAF50; background-color: #333333; padding: 10px;">Featured Projects</h2>
 <p align="center">
   <a href="https://github.com/hamit2747?tab=repositories">
     <img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=30&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Check%20out%20my%20projects%20here!;%20👇👇👇" alt="Featured Projects" />
@@ -48,5 +48,3 @@
 <p align="center">
   <em>Welcome to a world filled with creativity and technology!</em>
 </p>
-
-
