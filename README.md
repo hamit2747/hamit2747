@@ -48,12 +48,15 @@
 </p>
 
 <!-- Languages and tools icons -->
-<div align="center">
-  <h2 align="center">Languages and Tools</h2>
-  </div>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" width="300" height="300" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons/html-5.svg" alt="HTML5" width="50" />
+  <img src="https://skillicons.dev/icons/css-3.svg" alt="CSS3" width="50" />
+  <img src="https://skillicons.dev/icons/javascript.svg" alt="JavaScript" width="50" />
+  <img src="https://skillicons.dev/icons/bootstrap.svg" alt="Bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons/react.svg" alt="React" width="50" />
 </p>
+
 <!-- Final words -->
 <div align="center">
   <em>Welcome to a world filled with creativity and technology!</em>
