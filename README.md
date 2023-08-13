@@ -50,13 +50,12 @@
 <!-- Languages and tools icons -->
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons/html-5.svg" alt="HTML5" width="50" />
-  <img src="https://skillicons.dev/icons/css-3.svg" alt="CSS3" width="50" />
-  <img src="https://skillicons.dev/icons/javascript.svg" alt="JavaScript" width="50" />
-  <img src="https://skillicons.dev/icons/bootstrap.svg" alt="Bootstrap" width="50" />
-  <img src="https://skillicons.dev/icons/react.svg" alt="React" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" />
 </p>
-
 <!-- Final words -->
 <div align="center">
   <em>Welcome to a world filled with creativity and technology!</em>
