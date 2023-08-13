@@ -35,6 +35,14 @@
   </a>
 </p>
 
+<!-- Additional Information -->
+<h2 align="center">About Me</h2>
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+  My deep interest in design and usability principles allows me to create aesthetically pleasing and functional websites that cater to users' needs. By proficiently utilizing core technologies such as <strong>HTML 🌐</strong>, <strong>CSS 🎨</strong>, and <strong>JavaScript ⚙️</strong>, I develop solutions that enable users to engage effectively and comprehend targeted messages.<br/><br/>
+  If you're looking to bring to life web projects that offer users unforgettable experiences in the ever-evolving digital world, please don't hesitate to get in touch with me. I'm eager to expand my network and connect with like-minded professionals who share a similar vision. 🌐<br/><br/>
+  Thank you! 🙌
+</p>
+
 <!-- Languages and tools icons -->
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
