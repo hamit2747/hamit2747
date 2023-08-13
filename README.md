@@ -17,24 +17,40 @@ If you're looking to bring to life web projects that offer users unforgettable e
 Thank you! 🙌
 E-mail: a.hamit2747@gmail.com
 
-<h1>Skills:</h1>
-<a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/">
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg" />
+# Merhaba, Ben Abdulhamit - Front-End Developer 👋
 
+## Hakkımda
 
- <br>  <br>  <br>  <br> 
- <h1>Contact Me:</h1>
- <a href="https://www.linkedin.com/in/a-hamit-bozkurt-a35005203/">
- <img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
-  </a>
-<a href="https://instagram.com/a.hamit_bozkurt?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-<img align="left" alt="GitHub" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
-</a>
+Merhaba! Ben Abdulhamit, bir Front-End Developer'ım. HTML, CSS ve JavaScript konularında deneyime sahibim. Ayrıca Bootstrap ve React.js gibi araçları kullanarak kullanıcı dostu ve etkileyici web siteleri geliştiriyorum. Teknolojiye olan ilgim ve yaratıcı projelere olan tutkum ile sürekli kendimi geliştirmeye odaklanıyorum.
+
+## Proje Örnekleri
+
+### [Projem 1]
+
+Kısa bir açıklama ve proje ekran görüntüsü veya GIF.
+
+### [Projem 2]
+
+Kısa bir açıklama ve proje ekran görüntüsü veya GIF.
+
+## Teknolojiler
+
+- HTML5, CSS3 ve JavaScript
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org/)
+
+## İletişim
+
+- GitHub: [![github.com/abdulhamit](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/abdulhamit)](https://github.com/abdulhamit)
+- LinkedIn: [![linkedin.com/in/abdulhamit](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulhamit)](https://www.linkedin.com/in/abdulhamit)
+- Email: abdulhamit@example.com
+
+## Blog
+
+[Medium](https://medium.com/@abdulhamit) üzerinde son projelerim ve teknolojiyle ilgili düşüncelerimi paylaşıyorum.
+
+## Lisans
+
+Bu proje [![MIT Lisansı](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) altında lisanslanmıştır.
+
 
