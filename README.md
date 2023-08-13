@@ -50,7 +50,11 @@
 <!-- Languages and tools icons -->
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" alt="Languages and Tools" />
+  <img src="URL_TO_HTML5_IMAGE" alt="HTML5" />
+  <img src="URL_TO_CSS3_IMAGE" alt="CSS3" />
+  <img src="URL_TO_JAVASCRIPT_IMAGE" alt="JavaScript" />
+  <img src="URL_TO_BOOTSTRAP_IMAGE" alt="Bootstrap" />
+  <img src="URL_TO_REACT_IMAGE" alt="React" />
 </p>
 
 <!-- Final words -->
