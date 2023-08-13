@@ -4,6 +4,7 @@
 
 <!-- Tagline or description -->
 <p align="center">Front-End Developer | Web Designer | Tech Enthusiast</p>
+[README.md](https://github.com/hamit2747/hamit2747/files/12330373/README.md)
 
 <!-- Dynamic text effect -->
 <p align="center">
