@@ -4,8 +4,9 @@
 
 <!-- Tagline or description -->
 <p align="center">Front-End Developer | Web Designer | Tech Enthusiast</p>
- <img align="center"src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-
+ <p align="center">
+ <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+</p>
 <!-- Dynamic text effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
