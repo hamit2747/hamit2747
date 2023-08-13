@@ -52,7 +52,7 @@
   <h2 align="center">Languages and Tools</h2>
   </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" width="400" height="400" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,bootstrap,react&perline=5" width="200" height="200" alt="Languages and Tools" />
 </p>
 <!-- Final words -->
 <div align="center">
