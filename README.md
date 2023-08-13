@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hello, I'm Abdulhamit! 👋</h1>
+<h1 align="center">Hello <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Abdulhamit!</h1>
 
 <!-- Tagline or description -->
 <p align="center">Front-End Developer | Web Designer | Tech Enthusiast</p>
