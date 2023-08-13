@@ -30,14 +30,8 @@
 <!-- Featured Projects -->
 <h2 align="center">Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/hamit2747/project1">
-    <img src="https://user-images.githubusercontent.com/12345678/project1.gif" alt="Project 1" width="300" />
-  </a>
-  <a href="https://github.com/hamit2747/project2">
-    <img src="https://user-images.githubusercontent.com/12345678/project2.gif" alt="Project 2" width="300" />
-  </a>
-  <a href="https://github.com/hamit2747/project3">
-    <img src="https://user-images.githubusercontent.com/12345678/project3.gif" alt="Project 3" width="300" />
+  <a href="https://github.com/hamit2747?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=30&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Check%20out%20my%20projects%20here!;%20👇👇👇" alt="Featured Projects" />
   </a>
 </p>
 
