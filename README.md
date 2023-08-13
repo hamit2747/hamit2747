@@ -51,6 +51,3 @@
 <p align="center">
   <em>Welcome to a world filled with creativity and technology!</em>
 </p>
-```
-
-Bu örnek README.md dosyası, GitHub profiliniz ve istatistikleriniz için özelleştirilmiş bir profil tanıtımı oluşturmanız için kullanabilirsiniz. Projeleri ve diğer içerikleri özelleştirmek için kendinize göre düzenleyebilirsiniz.
