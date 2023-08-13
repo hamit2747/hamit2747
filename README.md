@@ -4,7 +4,6 @@
 
 <!-- Tagline or description -->
 <p align="center">Front-End Developer | Web Designer | Tech Enthusiast</p>
-![user (2)](https://github.com/hamit2747/hamit2747/assets/133259307/59517b9d-2f38-45fa-81e4-a84b231c744a)
 
 
 <!-- Dynamic text effect -->
