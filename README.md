@@ -6,8 +6,6 @@
 - 🦾I’m looking to collaborate on software companies
 
  
-<!-- Title -->
-<h1 align="center">Hello, I'm Abdulhamit! 👋</h1>
 
 <!-- Tagline or description -->
 <p align="center">Front-End Developer | Web Designer | Tech Enthusiast</p>
