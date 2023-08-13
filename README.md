@@ -55,5 +55,5 @@
 
 <!-- Final words -->
 <p align="center">
-  <em>Welcome to a world filled with creativity and technology!</em>
+  <em align="center">Welcome to a world filled with creativity and technology!</em>
 </p>
