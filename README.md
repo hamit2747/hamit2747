@@ -1,6 +1,6 @@
-Elbette, isteğinize uygun olarak renkleri ve arka planı değiştirdim. İşte güncellenmiş README.md örneği:
 
-```markdown
+
+
 <!-- Title -->
 <h1 align="center">Hello, I'm Abdulhamit! 👋</h1>
 
@@ -48,5 +48,5 @@ Elbette, isteğinize uygun olarak renkleri ve arka planı değiştirdim. İşte 
 <p align="center">
   <em>Welcome to a world filled with creativity and technology!</em>
 </p>
-```
+
 
