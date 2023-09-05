@@ -43,6 +43,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/hamit2747?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
 </p>
+ 
+</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Cn}/count.svg" /></p> 
+<br></div>
 
 
 <!-- Featured Projects -->
