@@ -65,7 +65,7 @@
  "I am excitedly bringing to life web projects where users can have unforgettable experiences in the ever-evolving digital world. I proficiently harness powerful technologies like ⚛️ React and 🔧 Tailwind CSS, effectively combining fundamental technologies such as HTML 🌐, CSS 🎨, and JavaScript ⚙️ to create solutions that enable users to establish effective communication and understand targeted messages.
 
 I am seeking opportunities to collaborate with like-minded professionals who share the same vision and to advance my career. I aim to take my experiences and skills to the next level and be a part of new projects. If you believe I can bring value to your team, please do not hesitate to reach out. I am eager to discuss collaboration and explore new opportunities. 🌟<br/><br/>
- <p align="center>Thank you! 🙌</p> 
+                                                                                 Thank you! 🙌
 </p>
 
 <!-- Languages and tools icons -->
