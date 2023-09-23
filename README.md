@@ -10,10 +10,10 @@
 <!-- Dynamic text effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%20Abdulhamit;I%20build%20web%20experiences;With%20passion%20and%20creativity;Let's%20create%20together" alt="Typing SVG" style="color: #FF5733;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=0&center=true&vCenter=true&width=435&lines=I'm%20Abdulhamit;I%20build%20web%20experiences;With%20passion%20and%20creativity;Let's%20create%20together" alt="Typing SVG" style="color: #FF5733;" />
   </a>
- 
 </p>
+
 
 <!-- Social media links -->
 <p align="center">
