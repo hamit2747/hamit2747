@@ -21,14 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hamit2747?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/hamit2747"/>
-  </a>
-  <a href="https://github.com/hamit2747?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/hamit2747?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
-</p>
 
 <!-- GitHub statistics -->
 <h2 align="center">GitHub Statistics</h2>
