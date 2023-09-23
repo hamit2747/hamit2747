@@ -44,11 +44,12 @@
   </a>
 </p>
  
-</div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Cn}/count.svg" /></p> 
-<br></div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%20Abdulhamit;I%20build%20web%20experiences;With%20passion%20and%20creativity;Let's%20create%20together" alt="Typing SVG" style="color: #FF5733;" />
+  </a>
+ 
+</p>
 
 
 <!-- Featured Projects -->
